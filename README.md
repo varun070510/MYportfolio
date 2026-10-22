@@ -1,32 +1,59 @@
-# React + TypeScript + Vite
+# Varun Jogi — AI & Machine Learning Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and visually impressive personal portfolio website for **Varun Jogi** (AI & Machine Learning Student | Aspiring AI Engineer at AJ Institute of Engineering and Technology, Mangaluru).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- **Futuristic AI Aesthetic**: Dark theme with electric cyan, sky blue, and violet glow accents.
+- **Interactive Neural Network Canvas**: Real-time particle constellation with synaptic connection physics and cursor interactivity.
+- **Categorized Technical Skills**: Filterable skills across AI/ML, Programming Languages, Data & Visualization, Web Development, and Developer Tools.
+- **Architectural Project Blueprints**: Structured project showcase cards with custom SVG architecture previews, tech stack chips, and inspectable blueprint modals.
+- **Academic Foundation**: Comprehensive timeline highlighting AJIET Mangaluru, VTU affiliation, and core engineering coursework.
+- **Continuous Learning Roadmap**: Active topics in Deep Learning, PyTorch, Large Language Models, and Cloud AI engineering.
+- **Contact & Direct Communication**: 1-click email copy button, social profile integrations, and validated messaging form.
+- **In-App Customization Guide**: Centralized data structure (`src/data/portfolioData.ts`) allowing rapid customization in minutes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+- **Frontend**: React 19, TypeScript, Vite
+- **Styling**: Vanilla CSS Design System with custom design tokens, glassmorphism, and responsive breakpoints
+- **Icons**: Lucide React + Custom SVG icons
+- **Canvas**: Native HTML5 Canvas 2D Context
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+---
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## 💻 Local Development
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/varun070510/MYportfolio.git
+   cd MYportfolio
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**:
+   ```bash
+   npm run build
+   ```
+
+---
+
+## 📬 Contact & Connect
+
+- **Name**: Varun Jogi
+- **Email**: [varun20051005@gmail.com](mailto:varun20051005@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/varun-jogi-29722b43a/](https://www.linkedin.com/in/varun-jogi-29722b43a/)
+- **GitHub**: [https://github.com/varun070510](https://github.com/varun070510)

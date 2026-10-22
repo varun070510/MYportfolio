@@ -72,7 +72,7 @@ export const PORTFOLIO_DATA = {
     location: 'Mangaluru, Karnataka, India',
     email: 'varun20051005@gmail.com',
     linkedin: 'https://www.linkedin.com/in/varun-jogi-29722b43a/',
-    github: 'https://github.com/varunjogi', // Editable link
+    github: 'https://github.com/varun070510', // Editable link
     statusBadge: 'Open to Internship Opportunities',
     isOpenToWork: true,
     bio: [
@@ -174,7 +174,7 @@ export const PORTFOLIO_DATA = {
         'Model performance benchmarking using precision, recall, and F1-score'
       ],
       technologies: ['Python', 'Scikit-Learn', 'Pandas', 'NumPy', 'Matplotlib'],
-      githubUrl: 'https://github.com/varunjogi',
+      githubUrl: 'https://github.com/varun070510',
       demoUrl: '#',
       isPlaceholder: true,
       imageTheme: 'cyan'
@@ -190,7 +190,7 @@ export const PORTFOLIO_DATA = {
         'Clean tabular exports and structured statistical summaries'
       ],
       technologies: ['Python', 'Pandas', 'NumPy', 'Seaborn', 'Jupyter Notebook'],
-      githubUrl: 'https://github.com/varunjogi',
+      githubUrl: 'https://github.com/varun070510',
       demoUrl: '#',
       isPlaceholder: true,
       imageTheme: 'violet'
@@ -206,7 +206,7 @@ export const PORTFOLIO_DATA = {
         'Modular architecture facilitating seamless API model integration'
       ],
       technologies: ['HTML5', 'CSS3', 'JavaScript', 'Python', 'REST APIs'],
-      githubUrl: 'https://github.com/varunjogi',
+      githubUrl: 'https://github.com/varun070510',
       demoUrl: '#',
       isPlaceholder: true,
       imageTheme: 'blue'
@@ -286,7 +286,7 @@ export const PORTFOLIO_DATA = {
     email: 'varun20051005@gmail.com',
     location: 'Mangaluru, Karnataka, India',
     linkedin: 'https://www.linkedin.com/in/varun-jogi-29722b43a/',
-    github: 'https://github.com/varunjogi',
+    github: 'https://github.com/varun070510',
     responseCommitment: 'Usually responds within 24–48 hours for academic or professional inquiries'
   }
 };

@@ -59,7 +59,7 @@ export const CustomizeGuideModal: React.FC<CustomizeGuideModalProps> = ({ isOpen
   description: 'Built an NLP tool using Python & SpaCy to parse key competencies.',
   highlights: ['94% entity recognition accuracy', 'Streamlit web interface'],
   technologies: ['Python', 'SpaCy', 'Pandas', 'Streamlit'],
-  githubUrl: 'https://github.com/varunjogi/resume-parser',
+  githubUrl: 'https://github.com/varun070510/resume-parser',
   demoUrl: 'https://huggingface.co/spaces/...',
   isPlaceholder: false, // Set to false when it's your real project!
   imageTheme: 'cyan'
@@ -110,7 +110,7 @@ export const CustomizeGuideModal: React.FC<CustomizeGuideModalProps> = ({ isOpen
             <pre className="guide-code-block">{`contactInfo: {
   email: 'varun20051005@gmail.com',
   linkedin: 'https://www.linkedin.com/in/varun-jogi-29722b43a/',
-  github: 'https://github.com/varunjogi'
+  github: 'https://github.com/varun070510'
 }`}</pre>
           </div>
         </div>
